@@ -1,6 +1,6 @@
 ---
 
-# 👋 About Me  
+Hey there! I’m **Octus**, a curious coder who loves building, automating, and learning along the way.
 
 I enjoy working on:  
 - 🔓 **Pentesting tools** for ethical hacking and security testing
